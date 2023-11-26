@@ -1,0 +1,5 @@
+@startuml
+public class Book{
+    
+}
+@enduml
